@@ -1,7 +1,5 @@
 # Assignment-3-MongoDB-Setup-and-Queries
 
-# Assignment-3-MongoDB-Setup-and-Queries
-
 ## Query 1 Result
 This query shows all movies with runtime > 200 and year == 1983.
 
